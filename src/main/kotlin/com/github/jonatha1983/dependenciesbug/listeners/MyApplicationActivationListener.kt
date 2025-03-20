@@ -1,4 +1,4 @@
-package com.github.jonatha1983.240dependenciesbug.listeners
+package com.github.jonatha1983.dependenciesbug .listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger

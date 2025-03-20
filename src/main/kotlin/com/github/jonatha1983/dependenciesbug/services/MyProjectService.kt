@@ -1,9 +1,9 @@
-package com.github.jonatha1983.240dependenciesbug.services
+package com.github.jonatha1983.dependenciesbug.services
 
+import com.github.jonatha1983.dependenciesbug.MyBundle
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.jonatha1983.240dependenciesbug.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {
